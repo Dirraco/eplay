@@ -32,11 +32,19 @@ export const LinkItem = styled.li`
 `
 
 export const LinkCart = styled.a`
-  text-decoration: none;
   display: flex;
-  align-items: center;
 
   img {
     margin-left: 16px;
   }
 `
+
+// export const LinkCart = styled.a`
+//   text-decoration: none;
+//   display: flex;
+//   align-items: center;
+
+//   img {
+//     margin-left: 16px;
+//   }
+// `
